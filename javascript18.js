@@ -1,1 +1,1 @@
-$(function(){mkTool("remove-all-whitespace",function(e){return e=e.replace(/\s+/g,""),e})});
+var _0xe5b9=["\x72\x65\x6D\x6F\x76\x65\x2D\x61\x6C\x6C\x2D\x77\x68\x69\x74\x65\x73\x70\x61\x63\x65","","\x72\x65\x70\x6C\x61\x63\x65"];$(function(){mkTool(_0xe5b9[0],function(_0xca3cx1){return _0xca3cx1= _0xca3cx1[_0xe5b9[2]](/\s+/g,_0xe5b9[1]),_0xca3cx1})})
